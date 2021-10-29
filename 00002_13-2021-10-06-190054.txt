@@ -1,0 +1,68 @@
+I Experiment name  : run_task
+I Task name : example/IR
+I Task file hash : 1034384289
+I Setup ID : /dev/cu.usbmodem207E367458531
+I Subject ID : 00002_13
+I Start date : 2021/10/06 19:00:54
+
+S {"OBJECT_IN": 1, "OBJECT_OUT": 2}
+
+E {"object_in_beam": 3, "object_out_beam": 4}
+
+D 0 2
+D 596 3
+D 597 1
+D 660 4
+D 660 2
+D 855 3
+D 855 1
+D 924 4
+D 925 2
+D 1126 3
+D 1127 1
+D 1175 4
+D 1175 2
+D 1180 3
+D 1180 1
+D 1184 4
+D 1185 2
+D 1379 3
+D 1379 1
+D 1446 4
+D 1446 2
+D 1648 3
+D 1648 1
+D 1715 4
+D 1716 2
+D 1902 3
+D 1903 1
+D 1973 4
+D 1973 2
+D 2173 3
+D 2174 1
+D 2240 4
+D 2240 2
+D 2425 3
+D 2426 1
+D 2491 4
+D 2491 2
+D 2691 3
+D 2692 1
+D 2756 4
+D 2756 2
+D 2951 3
+D 2951 1
+D 3016 4
+D 3017 2
+D 3219 3
+D 3220 1
+D 3288 4
+D 3288 2
+D 3469 3
+D 3469 1
+D 3538 4
+D 3539 2
+D 3741 3
+D 3742 1
+D 3811 4
+D 3811 2
